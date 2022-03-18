@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirstTutorial</string>
+    <string name="set_text">Button Clicked</string>
+    <string name="button_name">Log in</string>
+    <string name="passowrd">Passowrd</string>
+    <string name="share">Share</string>
+    <string name="warning">Warning</string>
+    <string name="save">Save</string>
+    <string name="info">Info</string>
+    <string name="username">User name</string>
+
+</resources>

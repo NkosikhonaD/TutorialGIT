@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentExample</string>
+    <string name="email_hint">Enter email</string>
+    <string name="password_hint">Enter password</string>
+    <string name="butto_text">Log In</string>
+    <string name="info_string">Info</string>
+    <string name="error_string">Error</string>
+    <string name="save_string">Save</string>
+    <string name="share_string">Share</string>
+
+</resources>
